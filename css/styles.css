@@ -1,0 +1,81 @@
+/*####   elemnts settings  ###*/
+body {
+text-align: left;
+margin: 0;
+font-family: 'Open Sans', sans-serif;
+background-color: #663399;
+background-color: hsl(257, 40%, 49%);
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+}
+/*##### class  settings  #####*/
+.logo-img {
+  padding-left: 5.625rem;
+  padding-right: 12.5rem;
+  padding-top: 3.125rem;
+
+}/*
+.bg-img {
+  position: relative;
+  background-color: #663399;
+  background-color:hsl(257, 40%, 49% );
+}*/
+.container {
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+.text-img-block  {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  color: white;
+
+}
+.bg-img {
+  background-color: #663399;
+  background-color: hsl(257, 40%, 49%);
+  width: 100%;
+}
+.illustration-img {
+  float: left;
+  padding-right: 3.75rem;
+  padding-left: 5.938rem;
+  padding-top: 5.625rem;
+}
+.title {
+  padding-top: 5.625rem;
+}
+.btn {
+  text-decoration: none;
+  -webkit-border-radius: 29;
+  -moz-border-radius: 29;
+  border-radius: 29px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #d934ce;
+  padding: 10px 40px 10px 40px;
+}
+
+.btn:hover {
+  background: #fcfeff;
+  text-decoration: none;
+  color:  #663399;
+}
+.attribution {
+  background-color: #663399;
+  background-color: hsl(257, 40%, 49%);
+  margin: 0;
+  height: 100%;
+  padding: 0;
+}
+.attribution-text {
+  margin: 0;
+  text-align: center;
+}
+.main-text {
+  padding-bottom: 30px;
+}
